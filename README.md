@@ -11,6 +11,8 @@
 7.  Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs 2016
 8. Relative NN-Descent: A Fast Index Construction for Graph-Based Approximate Nearest Neighbor Search
 9. Probabilistic Routing for Graph-Based Approximate Nearest Neighbor Search 2024
+10. Efanna: An extremely fast approximate nearest neighbor search algorithm based on knn graph
+11. Bridging Speed and Accuracy to Approximate K-Nearest Neighbor Search
 
 ## 2. using SSD
 
