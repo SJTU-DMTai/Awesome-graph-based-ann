@@ -13,6 +13,8 @@
 9. Probabilistic Routing for Graph-Based Approximate Nearest Neighbor Search 2024
 10. Efanna: An extremely fast approximate nearest neighbor search algorithm based on knn graph
 11. Bridging Speed and Accuracy to Approximate K-Nearest Neighbor Search
+12. Möbius Transformation for Fast Inner Product Search on Graph
+13. Norm Adjusted Proximity Graph for Fast Inner Product Retrieval
 
 ## 2. using SSD
 
@@ -28,6 +30,7 @@
 3. GPU-accelerated Proximity Graph Approximate Nearest Neighbor Search and Construction 2022
 4. Cagra: Highly parallel graph construction and approximate nearest neighbor search for gpus 2023
 5. BANG: Billion-Scale Approximate Nearest Neighbor Search using a Single GPU 2024
+6. Fast k-NN Graph Construction by GPU based NN-Descent
 
 ## 4. distribution
 
@@ -48,6 +51,7 @@
 
 1. SWINN: Efficient nearest neighbor search in sliding windows using graphs
 2. FreshDiskANN: A Fast and Accurate Graph-Based ANN Index for Streaming Similarity Search
+3. Fast k-NN Graph Construction by GPU based NN-Descent
 
 
 
