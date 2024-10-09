@@ -31,6 +31,7 @@
 4. Cagra: Highly parallel graph construction and approximate nearest neighbor search for gpus 2023
 5. BANG: Billion-Scale Approximate Nearest Neighbor Search using a Single GPU 2024
 6. Fast k-NN Graph Construction by GPU based NN-Descent
+7. Dynamic NN-Descent: An Efficient k-NN Graph Construction Method
 
 ## 4. distribution
 
@@ -53,5 +54,7 @@
 2. FreshDiskANN: A Fast and Accurate Graph-Based ANN Index for Streaming Similarity Search
 3. Fast k-NN Graph Construction by GPU based NN-Descent
 
+## 8. efficient query
 
+1. iQAN: Fast and Accurate Vector Search with Efficient Intra-Query Parallelism on Multi-Core Architectures
 
